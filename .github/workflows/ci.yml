@@ -15,6 +15,7 @@ on:
   push:
     branches:
       - main
+      - jerry/test
     paths-ignore:
       - "**/*.md"
       - "website/**"
